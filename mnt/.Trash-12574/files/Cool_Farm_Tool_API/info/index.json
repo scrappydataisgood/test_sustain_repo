@@ -1,0 +1,19 @@
+{
+  "arch": null,
+  "build": "py_0",
+  "build_number": 0,
+  "depends": [
+    "jsonschema",
+    "numpy",
+    "pandas",
+    "pathlib",
+    "python",
+    "requests"
+  ],
+  "name": "tcc-cft-tool",
+  "noarch": "python",
+  "platform": null,
+  "subdir": "noarch",
+  "timestamp": 1677737938415,
+  "version": "0.3.4"
+}

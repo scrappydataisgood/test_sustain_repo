@@ -1,0 +1,41 @@
+{% set version = "0.3.4" %}
+
+package:
+  name: tcc-cft-tool
+  version: {{ version }}
+
+build:
+  noarch: python
+  script: "cd {{ RECIPE_DIR }}/.. && pip install ."
+
+source:
+  path: ..
+
+requirements:
+  build:
+    - python
+    - setuptools
+
+
+  run:
+    - python
+    - pandas
+    - numpy
+    - pandas
+    - pathlib
+    - requests
+    - jsonschema
+
+test:
+  requires:
+    - jsonschema
+    - pytest
+    - pytest-cov
+    - tcc-s3
+    - requests
+  imports:
+    - tcc_cft_tool
+  source_files:
+    - setup.cfg
+    - test
+    - data

@@ -1,0 +1,67 @@
+[W 2023-06-08 16:11:06.663 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2023-06-08 16:11:06.751 ServerApp] jupyter_server_mathjax | extension was successfully linked.
+[I 2023-06-08 16:11:06.751 ServerApp] jupyter_server_proxy | extension was successfully linked.
+[W 2023-06-08 16:11:06.755 LabApp] 'iopub_data_rate_limit' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-06-08 16:11:06.755 LabApp] 'disable_check_xsrf' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-06-08 16:11:06.762 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-06-08 16:11:06.762 ServerApp] jupyterlab_git | extension was successfully linked.
+[I 2023-06-08 16:11:06.770 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-06-08 16:11:06.771 ServerApp] nbdime | extension was successfully linked.
+[I 2023-06-08 16:11:06.772 ServerApp] Writing Jupyter server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2023-06-08 16:11:06.969 ServerApp] notebook_shim | extension was successfully linked.
+[W 2023-06-08 16:11:07.002 ServerApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 2023-06-08 16:11:07.004 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-06-08 16:11:07.005 ServerApp] jupyter_server_mathjax | extension was successfully loaded.
+[I 2023-06-08 16:11:07.019 ServerApp] jupyter_server_proxy | extension was successfully loaded.
+[I 2023-06-08 16:11:07.020 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.9/site-packages/jupyterlab
+[I 2023-06-08 16:11:07.020 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 2023-06-08 16:11:07.026 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-06-08 16:11:07.034 ServerApp] jupyterlab_git | extension was successfully loaded.
+[I 2023-06-08 16:11:07.038 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-06-08 16:11:07.139 ServerApp] nbdime | extension was successfully loaded.
+[I 2023-06-08 16:11:07.140 ServerApp] Serving notebooks from local directory: /
+[I 2023-06-08 16:11:07.140 ServerApp] Jupyter Server 1.18.1 is running at:
+[I 2023-06-08 16:11:07.140 ServerApp] http://run-6481fd01cb525c668be79c1f-5c52d:8888/ehpvr/Brazil_CO2_and_Yield_Analysis/notebookSession/6481fd01cb525c668be79c1f/lab/tree/mnt
+[I 2023-06-08 16:11:07.140 ServerApp]  or http://127.0.0.1:8888/ehpvr/Brazil_CO2_and_Yield_Analysis/notebookSession/6481fd01cb525c668be79c1f/lab/tree/mnt
+[I 2023-06-08 16:11:07.140 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2023-06-08 16:11:08.900 ServerApp] 302 GET /ehpvr/Brazil_CO2_and_Yield_Analysis/notebookSession/6481fd01cb525c668be79c1f/ (100.96.176.98) 0.75ms
+[I 2023-06-08 16:11:09.492 ServerApp] 302 GET /ehpvr/Brazil_CO2_and_Yield_Analysis/notebookSession/6481fd01cb525c668be79c1f/ (100.96.176.98) 0.45ms
+[I 2023-06-08 16:11:20.372 LabApp] Build is up to date
+[I 2023-06-08 16:11:49.782 ServerApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 2023-06-08 16:11:49.783 ServerApp] Notebook mnt/ETL/yield_and_CO2_dataset_builds.ipynb is not trusted
+[I 2023-06-08 16:11:54.520 ServerApp] Kernel started: 5a81c77c-3d7d-4336-aaed-b35c6cb3b9df
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 97091e8f-e3e5-44e5-8640-2202355c3f5b
+[I 2023-06-08 16:13:01.857 ServerApp] Kernel restarted: 5a81c77c-3d7d-4336-aaed-b35c6cb3b9df
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 497e85da-1dcd-4e55-918c-210c58982bd2
+[I 2023-06-08 16:13:58.655 ServerApp] Saving file at /mnt/ETL/yield_and_CO2_dataset_builds.ipynb
+[W 2023-06-08 16:14:27.261 ServerApp] Notebook mnt/ETL/wet_yield_prediction/wet_yield_prediction_with_class.ipynb is not trusted
+[I 2023-06-08 16:14:31.139 ServerApp] Kernel started: 466972d3-f169-4b3c-8bfd-5ae34c735d5a
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 95b1271e-3ef1-4340-98b4-3fd3878411df
+[I 2023-06-08 16:15:37.265 ServerApp] Kernel restarted: 466972d3-f169-4b3c-8bfd-5ae34c735d5a
+[W 2023-06-08 16:15:38.562 ServerApp] Replacing stale connection: 466972d3-f169-4b3c-8bfd-5ae34c735d5a:fff4baf0-f415-4112-bb75-94e99239a164
+[I 2023-06-08 16:15:39.906 ServerApp] Starting buffering for 466972d3-f169-4b3c-8bfd-5ae34c735d5a:fff4baf0-f415-4112-bb75-94e99239a164
+[I 2023-06-08 16:15:39.907 ServerApp] Restoring connection for 466972d3-f169-4b3c-8bfd-5ae34c735d5a:fff4baf0-f415-4112-bb75-94e99239a164
+[I 2023-06-08 16:16:28.577 ServerApp] Saving file at /mnt/ETL/wet_yield_prediction/wet_yield_prediction_with_class.ipynb
+[I 2023-06-08 16:18:30.070 ServerApp] Saving file at /mnt/ETL/wet_yield_prediction/wet_yield_prediction_with_class.ipynb
+[W 2023-06-08 16:18:45.055 ServerApp] Notebook mnt/ETL/CO2_prediction/CO2_prediction.ipynb is not trusted
+[I 2023-06-08 16:18:48.707 ServerApp] Kernel started: f28d8aa2-0a5e-4d9d-b4f4-f1f205e750ec
+[I 2023-06-08 16:18:51.124 ServerApp] Kernel started: 9f23852a-8a08-4ee0-9323-ea4867b8c16e
+[I 2023-06-08 16:18:51.125 ServerApp] Kernel shutdown: f28d8aa2-0a5e-4d9d-b4f4-f1f205e750ec
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 636c072f-0a9b-4836-b1cc-25484edf4b85
+[I 2023-06-08 16:20:24.152 ServerApp] Kernel restarted: 9f23852a-8a08-4ee0-9323-ea4867b8c16e
+[I 2023-06-08 16:20:24.391 ServerApp] Starting buffering for 9f23852a-8a08-4ee0-9323-ea4867b8c16e:34aa5c5c-0cd6-45b2-b4d3-4de517ecb8e7
+[I 2023-06-08 16:20:24.998 ServerApp] Restoring connection for 9f23852a-8a08-4ee0-9323-ea4867b8c16e:34aa5c5c-0cd6-45b2-b4d3-4de517ecb8e7
+[I 2023-06-08 16:20:25.004 ServerApp] Replaying 3 buffered messages
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c877b716-49a0-4ae3-845f-b3ea24230ea2
+[I 2023-06-08 16:20:30.986 ServerApp] Saving file at /mnt/ETL/wet_yield_prediction/wet_yield_prediction_with_class.ipynb
+[I 2023-06-08 16:20:46.102 ServerApp] Saving file at /mnt/ETL/CO2_prediction/CO2_prediction.ipynb
+[I 2023-06-08 16:20:54.722 ServerApp] Kernel interrupted: 9f23852a-8a08-4ee0-9323-ea4867b8c16e
+[I 2023-06-08 16:20:56.335 ServerApp] Kernel interrupted: 9f23852a-8a08-4ee0-9323-ea4867b8c16e
+[I 2023-06-08 16:22:31.892 ServerApp] Saving file at /mnt/ETL/wet_yield_prediction/wet_yield_prediction_with_class.ipynb
+[I 2023-06-08 16:22:47.592 ServerApp] Saving file at /mnt/ETL/CO2_prediction/CO2_prediction.ipynb
+[I 2023-06-08 16:23:10.403 ServerApp] New terminal with automatic name: 1

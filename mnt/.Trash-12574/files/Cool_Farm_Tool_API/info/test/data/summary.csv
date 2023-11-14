@@ -1,0 +1,6 @@
+AssessmentID,result,value,unit
+879556000000000.0,emissions_total,81377.26,kgCO2e
+879556000000000.0,emissions_per_area,275.7,kgCO2e/acre
+879556000000000.0,emissions_per_product,0.16,kgCO2e/lb
+879556000000000.0,soil_organic_carbon,0.5,%
+879556000000000.0,machinery_fuel_usage,5026.8,litre
